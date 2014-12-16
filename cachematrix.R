@@ -1,4 +1,6 @@
 ## Example of the mean cached function as a starting point for the inverse-matrix function (see below)
+## NOT IMPORTANT FOR PEER REVIEW
+## ----------------------------------------------------
 
 # makeVector <- function(x = numeric()) {
 #         m <- NULL
@@ -30,8 +32,17 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## ---------------------------------------------------------------------------
+## --- START OF THE IMPLEMENTATION Assignment: Caching the Inverse of a Matrix ---
+## ---------------------------------------------------------------------------
+
 ## Instanciates the initial matrix 
 ## Sets and gets the values of the inversed matrix
+
+## set the value of the matrix
+## get the value of the matrix
+## set the value of the inverse
+## get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         
